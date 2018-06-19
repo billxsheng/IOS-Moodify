@@ -1,6 +1,8 @@
 # Moodify
-Moodify: iOS app used to help job-seekers/students write professional letters 📱
-Technologies used:
+<b>Moodify</b>: iOS app used to help job-seekers/students write professional letters 📱
+<br>
+<br>
+<b>Technologies used:</b>
 <br>
 Swift
 <br>
