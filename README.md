@@ -1,3 +1,7 @@
 # Moodify
-IOS application used to interpret moods of different texts made using Swift, Xcode, and IBM Watson API.
+Moodify: iOS app used to help job-seekers/students write professional letters 📱
+Technologies used:
+Swift
+Xcode
+IBM Watson API.
 
