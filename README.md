@@ -1,5 +1,4 @@
 # Moodify
-<br>
 <b>Technologies used:</b>
 <br>
 Swift
