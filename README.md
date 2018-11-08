@@ -5,5 +5,5 @@ Swift
 <br>
 Xcode
 <br>
-IBM Watson API.
+IBM Watson API
 
